@@ -43,7 +43,7 @@ status = "statuses"
   [[menu.main]]
   name = "Pages"
   post = "<i class='fa fa-file'></i>"
-  url = "/rfc/"
+  url = "/page/"
   weight = -100
 
   [[menu.icon]]
